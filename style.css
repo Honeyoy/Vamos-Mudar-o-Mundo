@@ -1,0 +1,187 @@
+
+
+
+
+body{
+	font-family: 'Poppins', sans-serif;
+	background: #f9fffd;
+   
+}
+
+.banner{
+    width: 100%;
+
+
+}
+
+.principal{
+	background: #DAECEE;
+}
+
+.titulo-principal{
+	padding-left: 20px;
+	text-align: center;
+}
+
+.titulo-dois{
+	padding-left: 20px;
+	text-align: center;
+
+}
+ 
+.bicicleta{
+    width: 20%;
+    margin-top: 10px;
+    margin-right: 10px;
+ }
+
+ 
+ .container{width: 700px}
+ .container{
+ 	display: flex ;
+ 	align-items: center;
+
+ 	
+ }
+ 
+ 
+ .causa{
+ 	text-align: center;
+    margin-right: 30px; 
+}
+
+
+ .agua{
+ 	width: 20%;
+    margin-top: 10px;
+    margin-right: 10px;
+    
+ }
+
+ .reciclar{
+ 	width: 20%;
+ 	margin-top: 10px;
+    margin-right: 10px; 
+ }
+
+ .corpo{
+ 	background: #DAECEE;
+ 	margin-top: 35px;
+ }
+
+ .video{
+ 	height: 150px;
+    width: 260px;
+ 	margin: 3em auto;
+ 	text-align: center;
+ }
+
+ .botao{
+ 	padding: 10px 8px;
+ 	width: 70px;
+ 	color: #fff;
+ 	background: #70B6C0;
+ 	border: 1px solid #70B6C0;
+ 	border-radius: 5px;
+ 	text-align: center;
+ 	user-select: none;
+ 	cursor: pointer;
+ 	text-decoration: none;
+ 
+ }
+
+ 
+
+ .botao:hover{
+ 	background: #90C7CE;
+    transition: background 1s;
+
+ 
+ }
+
+
+ .container2{
+ 	padding: 0px 20px;
+ }
+
+
+.container-main{
+	flex: 1 1 0;
+	padding-bottom: 60px;
+}
+
+footer{
+	display: flex;
+	justify-content: center;
+	background: linear-gradient( 
+    198deg, #bbedc2 , #DAECEE, #bbebc2);
+    
+    padding-top: 5em;
+	padding-bottom: 5em;
+
+}
+
+footer img{
+ 	width: 40px;
+ 	height: 40px;
+ }
+
+footer a{
+ 	margin: 20px;
+ 	text-align: center;
+ }
+
+.texto-copy{
+ 	text-align: center;
+ 	display: flex;
+ 	justify-content: center;
+ 	user-select: none;
+
+ }
+
+.gif{
+	margin-top: 20px;
+	float: left;
+    width: 199px;
+  border-radius: 5px;
+  border:3px solid #70b6c0;
+}
+
+
+.itens{
+	font-size: 20px;
+
+}
+
+.vida{
+	text-align: center;
+	background:  #DAECEE;
+}
+
+
+ P {
+ 	text-align: center;
+ 	font-size:  18;
+
+ }
+
+
+#mundo{
+    font-size: 22px;
+}
+
+
+strong{
+    color: #AF83C2;
+}
+
+ul{
+	display: inline-block;
+	width: 40%;
+	margin-left: 50px;
+
+}
+
+
+
+
