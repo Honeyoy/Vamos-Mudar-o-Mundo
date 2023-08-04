@@ -112,7 +112,7 @@ body{
 }
 
 footer{
-	display: flex;
+	
 	justify-content: center;
 	background: linear-gradient( 
     198deg, #bbedc2 , #DAECEE, #bbebc2);
@@ -134,7 +134,7 @@ footer a{
 
 .texto-copy{
  	text-align: center;
- 	display: flex;
+ 	display: flex;lign-items: ;
  	justify-content: center;
  	user-select: none;
 
