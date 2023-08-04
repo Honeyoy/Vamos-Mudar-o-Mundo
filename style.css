@@ -188,13 +188,6 @@ ul{
 }
 
 
-@media screen and (min-width:550px) {
-	
-	.gifx{
-		display: none;
-	}
-
-}
 
 @media screen and (min-width:1000px) {
 	
