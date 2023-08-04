@@ -188,3 +188,10 @@ ul{
 }
 
 
+@media screen and (min-width:550px) {
+	
+	.gif{
+		display: none;
+	}
+
+}
